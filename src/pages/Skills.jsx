@@ -8,7 +8,7 @@ function Skills() {
       <div className="hero-content">
         <div className="text-content">
           <p className="welcome">My expertise</p>
-          <h1 className="title">Skills</h1>
+          <h1 className="name">Skills</h1>
           <ul className="skills-list">
             {skills.map((skill, index) => (
               <li key={index} className="skill-item">{skill}</li>

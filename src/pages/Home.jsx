@@ -6,7 +6,7 @@ function Home() {
       <div className="hero-content">
         <div className="text-content">
           <p className="welcome">Welcome</p>
-          <h1 className="title">Hey, My name is<br />Hein Htet Nyan</h1>
+          <h1 className="name">Hey, My name is<br />Hein Htet Nyan</h1>
           <p className="description">I'm a passionate backend developer building fast, reliable, and scalable server-side applications.</p>
           <div className="buttons">
             <a href="/contact" className="cta-button primary">Hire Me Now</a>

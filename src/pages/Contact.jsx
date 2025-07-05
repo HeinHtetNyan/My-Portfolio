@@ -6,7 +6,7 @@ function Contact() {
       <div className="hero-content">
         <div className="text-content">
           <p className="welcome">Get in touch</p>
-          <h1 className="title">Contact Me</h1>
+          <h1 className="name">Contact Me</h1>
           <div className="contact-info">
             <p><strong>Email:</strong> <a href="mailto:heinhtetnyanh09@gmail.com">heinhtetnyanh09@gmail.com</a></p>
             <p><strong>GitHub:</strong> <a href="https://github.com/HeinHtetNyan" target="_blank" rel="noopener noreferrer">https://github.com/HeinHtetNyan</a></p>
