@@ -1,0 +1,12 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Arial', sans-serif;
+  background-color: #1a3c3c; /* Dark green from the resume */
+  color: #fff;
+}
+
+main {
+  flex: 1;
+}
