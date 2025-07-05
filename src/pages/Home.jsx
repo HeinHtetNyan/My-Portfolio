@@ -9,7 +9,7 @@ function Home() {
           <h1 className="name">Hey, My name is<br />Hein Htet Nyan</h1>
           <p className="description">I'm a passionate backend developer building fast, reliable, and scalable server-side applications.</p>
           <div className="buttons">
-            <a href="/Contact" className="cta-button primary">Hire Me Now</a>
+            <Link to="/contact" className="cta-button primary">Hire Me Now</Link>
           </div>
         </div>
         <div className="image-container">
@@ -20,4 +20,4 @@ function Home() {
   )
 }
 
-export default Home
+export default Home;
